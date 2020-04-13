@@ -1,9 +1,27 @@
 /* global */
 * {
-    padding:0;
-    margin: 0;
     box-sizing: border-box;
 }
-
+img {
+    max-width: 100%;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 /* general */
+.container {
+    width: 90%;
+    max-width: 980px;
+    margin: 0 auto;
+}
 
+.d-flex {
+    display: flex;
+}
+/* intro */
+header {
+    margin:36px 0;
+}
+main {
+    
+}
